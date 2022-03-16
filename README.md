@@ -1,5 +1,5 @@
 <p align="center">
-# Hello humans, AI, lizards and Extraterrestial beings and welcome to my Github
+ Hello humans, AI, lizards and Extraterrestial beings and welcome to my Github
 </p>
 
 <p align="center">
