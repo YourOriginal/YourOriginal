@@ -7,7 +7,7 @@ I've always been interested in games and math. Now that I'm older and "understan
   </p>
   
 <p align="center">
-# Who am I?
+ *Who am I?*
 </p>
 
 <!---
