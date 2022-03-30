@@ -9,6 +9,6 @@ I'm Janzen Liu, a Neuroscience graduate from the University of Toronto that has 
 
 ## Skills
 
-<img src="https://user-images.githubusercontent.com/100324759/160725456-ff1c31cf-ee58-4f57-8538-8436e21b5a4f.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/100324759/160725456-ff1c31cf-ee58-4f57-8538-8436e21b5a4f.png" width="100" height="100">
 
-https://user-images.githubusercontent.com/100324759/160725456-ff1c31cf-ee58-4f57-8538-8436e21b5a4f.png
+
