@@ -20,4 +20,4 @@ Feel free to contact me at my [email](Liujanzen@gmail.com)!
 | Project  | Language(s)/Platform | Description |
 | ------------- | ------------- | ------------- |
 | [Hewlett-Packard Analysis](https://github.com/YourOriginal/UTSCSS/tree/Hewlett-Packard-Analysis)  | SQL  | - Analyzed HP employee database to determine eligibility based on certain criteria <br /> - Filtered, organized and sorted data through the use of SQL queries <br /> - Created new tables to list retiring employees and their titles along with employees eligible for mentorship |
-| School District Analysis | Python/Jupyter |  |
+| [IMDB Movie Analysis](https://github.com/YourOriginal/UTSCSS/tree/ETL) | Python/Jupyter | - Filtered and converted columns using REGEX to unify value types and format <br /> - Cleaned and organized data by removing null values, and columns that are unnecessary or don't meet certain criteria <br /> - Merged and exported dataframes into a SQL databse to perform further queries |
