@@ -25,13 +25,14 @@ performance of sampling models
 - Calculated balanced accuracy scores and confusion matrixes to summarize the data post
 analysis
 
-### [AMAZON CONSUMER RATING ANALYSIS](https://github.com/YourOriginal/Amazon_Vine_Analysis)
+### [Amazon Consumer Rating Analysis](https://github.com/YourOriginal/Amazon_Vine_Analysis)
 - Analyzed product reviews from the “Video Games” department of Amazon to determine
 biases behind product reviews
 - Used PySpark to perform ETL on datasets acquired from Amazon’s databases and then
 exported the data into a pgAdmin server with appropriate data frames and tables
 - Filtered the data to meet certain criteria in determining the legitimacy of reviews and
 provided a written overview of the project
+
 ## On-going Project
 
 ### Manim For Education
