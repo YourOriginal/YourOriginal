@@ -7,7 +7,7 @@
 
 I'm Janzen Liu, a Neuroscience graduate from the University of Toronto that has found a passion for identifying solutions in data driven problems and their applications to real world scenarios. I'm currently residing in Toronto and acitvely looking for opportunities in the field.
 
-I have found many interests and hobbies that I have been privilidged with to explore, all thanks to my parents. Piano 🎹, dance 🕺🏽, Taekwondo 🥋, cooking 👨‍🍳 and gaming 🎮 have all been things I am passionate about and have been a real life saver during the long long months of COVID. You can even take a look on my [Instagram](https://www.instagram.com/janzenliu/)!
+I have found many interests and hobbies that I have been privilidged with to explore, all thanks to my parents. Piano 🎹, dance 🕺🏽, Taekwondo 🥋, and gaming 🎮 have all been things I am passionate about and have been a real life saver during the long long months of COVID. You can even take a look on my [Instagram](https://www.instagram.com/janzenliu/)!
 
 Feel free to contact me at my [email](Liujanzen@gmail.com)!
 
