@@ -16,6 +16,16 @@ Feel free to contact me at my [email](Liujanzen@gmail.com).
 
 ## Project Samples
 
+### [Job Fraud Detection](https://github.com/Ikyupark/Capstone-project)
+- Used job posting data provided from Kaggle to determine job posting legitimacy based
+on various criteria
+- Performed exploratory data analysis on parameters within the data set and visualized data
+using Matplotlib and NLTK
+- Assisted and regularly communicated in a team environment to ensure steady workflow
+to meet deadlines
+- Achieved a ML model that could predict fraudulent jobs with an accuracy, precision and
+recall rating of > 98%
+
 ### [Credit Risk Analysis](https://github.com/YourOriginal/AI-Credit-Risk)
 - Performed credit risk analysis using artificial intelligence by applying various supervised
 machine learning models such as the ones found in SMOTE, sklearn, and imblearn
@@ -33,15 +43,6 @@ exported the data into a pgAdmin server with appropriate data frames and tables
 - Filtered the data to meet certain criteria in determining the legitimacy of reviews and
 provided a written overview of the project
 
-### [Job Fraud Detection](https://github.com/Ikyupark/Capstone-project)
-- Used job posting data provided from Kaggle to determine job posting legitimacy based
-on various criteria
-- Performed exploratory data analysis on parameters within the data set and visualized data
-using Matplotlib and NLTK
-- Assisted and regularly communicated in a team environment to ensure steady workflow
-to meet deadlines
-- Achieved a ML model that could predict fraudulent jobs with an accuracy, precision and
-recall rating of > 98%
 
 ## On-going Project
 
