@@ -15,7 +15,7 @@ Feel free to contact me at my [email](Liujanzen@gmail.com).
 
 ## Project Samples
 
-### [Job Fraud Detection](https://github.com/Ikyupark/Capstone-project)
+### [Job Fraud Detection](https://github.com/YourOriginal/Capstone-project)
 - Used job posting data provided from Kaggle to determine job posting legitimacy based
 on various criteria
 - Performed exploratory data analysis on parameters within the data set and visualized data
